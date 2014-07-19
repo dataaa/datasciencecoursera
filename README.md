@@ -1,4 +1,4 @@
-DataSciToolbox
-==============
+datasciencecoursera
+===================
 
 Data Science Toolbox playground
